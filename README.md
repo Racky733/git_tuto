@@ -14,7 +14,7 @@ Description du commit avec des informations sur l'evolution du projet
 
 ```bash
 git add .
-git commit -m "titre du commit"
+git commit -m "titre du commentaire"
 git push -u origin main
 ```
 
